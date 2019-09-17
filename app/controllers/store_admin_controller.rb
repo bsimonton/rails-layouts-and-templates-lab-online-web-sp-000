@@ -5,7 +5,7 @@ class StoreAdminController < ApplicationController
   end 
   
   def orders
-    render 
+    render :layout 
   end 
   
 end 
